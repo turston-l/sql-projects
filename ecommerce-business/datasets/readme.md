@@ -8,4 +8,4 @@ segment: was the user in the blue or the red A/B test segment?
 
 #### abtest_purchases:
 
-* 
+* Every row represents a unique purchase event. One purchase event (one row in the table) means exactly one pen sold. But since one user can buy multiple times, the same user can show up more than once in this table.
