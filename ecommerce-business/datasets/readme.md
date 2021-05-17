@@ -6,4 +6,6 @@
 user_id: this shows the unique user_id of a given user.
 segment: was the user in the blue or the red A/B test segment?
 
-*
+#### abtest_purchases:
+
+* 
